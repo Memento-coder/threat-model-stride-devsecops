@@ -85,3 +85,8 @@ A integração da modelagem de ameaças no ciclo de desenvolvimento contribui pa
 ## 6. Repositório
 
 https://github.com/Memento-coder/threat-model-stride-devsecops
+
+---
+
+## 7. Arquitetura
+!04.png
